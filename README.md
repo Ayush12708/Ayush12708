@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayush12708
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning python , java, html5, css.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud computing 
+- 🌱 I’m currently learning python , java, html5, css, C++.
 - 📫 How to reach me ... https://www.linkedin.com/in/ayush-kumar-67097b283/
 
 <!---
